@@ -6,7 +6,7 @@
 适合学习、教学和「福利发放」场景——粉丝装好 PyMechanical + 本机 Ansys 即可照跑，
 **全程不依赖官方 MCP server**。
 
-> 作者：Zhang Zheng（抖音「YES 工程师」）。本仓库为教学/福利用途，欢迎 star / fork。
+> 作者：Zhang Zheng（抖音「生活的艺术家」）。本仓库为教学/福利用途，欢迎 star / fork。
 
 ---
 
